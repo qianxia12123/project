@@ -19,10 +19,10 @@ add-from-login 22222222
 
 66666-remote
 
-<<<<<<< HEAD
+
 77777777-zlx
 
-=======
+
 
 777-tiechui
->>>>>>> b5df1c480148fb43018c293b07b62c584734cbad
+
